@@ -6581,4 +6581,9 @@ button.close {
     display: none !important;
   }
 }
+.media-flex {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 31px;
+}
 /*# sourceMappingURL=bootstrap.css.map */
